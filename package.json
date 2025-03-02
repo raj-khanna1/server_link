@@ -1,0 +1,10 @@
+{
+    "name": "api_test_server",
+    "version": "1.0.0",
+    "main": "express_server.js",
+    "scripts": {
+      "start": "node express_server.js"
+    },
+    "dependencies": { }
+  }
+  
