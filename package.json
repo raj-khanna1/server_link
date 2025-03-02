@@ -1,7 +1,7 @@
 {
     "name": "api_test_server",
     "version": "1.0.0",
-    "main": "express_server.js",
+    "main": "server.js",
     "scripts": {
       "start": "node server.js"
     },
